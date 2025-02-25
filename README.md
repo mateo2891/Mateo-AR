@@ -1,2 +1,2 @@
 # Mateo-AR
-Persona repository 
+Personal repository 
