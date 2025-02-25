@@ -1,2 +1,4 @@
-# Mateo-AR
-Personal repository 
+# About me
+I am a professional with a background in design and a strong orientation towards technology and problem solving in digital environments. I have experience in the configuration and maintenance of equipment, operating systems and computer networks, as well as in collaborative project management and user support.
+Currently, I am expanding my knowledge in programming, artificial intelligence and machine learning, which allows me to better understand the integration of new technologies in business environments. In addition, I have experience in planning and executing corporate events, ensuring optimal coordination and technical support.
+I am motivated to work in dynamic environments where I can apply my technical skills to ensure the proper functioning of IT systems, optimize processes and provide efficient support to users.
